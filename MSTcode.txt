@@ -1,0 +1,7 @@
+digraph MST{
+a -> b [label=0.5, color=red];
+a -> d [label=11];
+a -> c [label=3, color=red];
+c -> d [label=1, color=red];
+d -> f [label=11, color=red];
+}
